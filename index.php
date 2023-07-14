@@ -39,6 +39,8 @@
             <a class="navbar-brand">Institut Tekonologi Kyoto</a>
         </div>
     </nav>
+    
+    <h1>Halo</h1>
 
     <!-- Main -->
     <a href="indes.php" class="text-decoration-none">
